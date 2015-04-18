@@ -7,8 +7,8 @@ var UI = require('ui');
 var Vector2 = require('vector2');
 
 var main = new UI.Card({
-  title: 'Pebble.js',
-  icon: 'images/menu_icon.png',
+  title: 'Pl0xWiNRaR',
+  icon: 'imag	es/menu_icon.png',
   subtitle: 'Hello World!',
   body: 'Press any button.'
 });
@@ -19,11 +19,12 @@ main.on('click', 'up', function(e) {
   var menu = new UI.Menu({
     sections: [{
       items: [{
-        title: 'Pebble.js',
-        icon: 'images/menu_icon.png',
-        subtitle: 'Can do Menus'
+        title: 'Google'
       }, {
-        title: 'Second Item',
+        title: 'Apple',
+        subtitle: 'Subtitle Text'
+      }, {
+        title: 'Bloomberg',
         subtitle: 'Subtitle Text'
       }]
     }]
