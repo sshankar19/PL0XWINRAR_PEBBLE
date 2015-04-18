@@ -1,9 +1,8 @@
 /**
  * Welcome to Pebble.js!
- *
+ * fsdlajfdlajf; asfdklhaoer;gh;
  * This is where you write your app.
- */
-
+*/
 var UI = require('ui');
 var Vector2 = require('vector2');
 
