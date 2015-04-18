@@ -8,7 +8,7 @@ var Vector2 = require('vector2');
 
 var main = new UI.Card({
   title: 'Pl0xWiNRaR',
-  icon: 'imag	es/menu_icon.png',
+  icon: 'images/gengar.png',
   subtitle: 'Hello World!',
   body: 'Press any button.'
 });
